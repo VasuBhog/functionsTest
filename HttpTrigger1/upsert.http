@@ -1,0 +1,4 @@
+# Test HTTP REQUESTS
+
+# POST http://localhost:7071/api/HttpTrigger1?productId=0&name=""&cost=0
+GET http://localhost:7071/api/addproductwithidentitycolumn?name=MyProduct&cost=1
